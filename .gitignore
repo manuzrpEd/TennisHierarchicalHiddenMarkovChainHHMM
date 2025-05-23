@@ -59,7 +59,7 @@ $RECYCLE.BIN/
 *.pkl
 
 # Image files
-*.png
+# *.png
 
 #PyCharm
 *.git
