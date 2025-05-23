@@ -7,3 +7,7 @@ The match model is "hidden" because:\
     - We don't observe why a point was won (e.g., unforced error, ace, fatigue).\
     - The observed outcome (win/loss of point) is a result of latent variables (skill, momentum, psychological state).\
 Given our only two inputs - the probabilities of each player winning a point on his serve we can modelize a game and a tie-break first, then we can use these modelizations to modelize a set, and finally we can use the set model to modelize a whole match.
+
+![Hierarchical Hidden Markov Model for a Tennis Match](1_uSo-3Z_euy0mSLHkgHsE3Q.png)
+
+![Tie Break Markov Chain representation](TieBreak.png)
