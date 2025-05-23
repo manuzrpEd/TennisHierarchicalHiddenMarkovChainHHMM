@@ -1,0 +1,7 @@
+quantecon
+matplotlib
+networkx
+numpy
+pandas
+scikit-learn
+pyyaml
